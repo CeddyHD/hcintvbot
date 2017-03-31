@@ -1,0 +1,14 @@
+{
+    "EMAIL" : null,
+    "OWNER" : "258465026996830208",
+    "PASSWORD" : null,
+    "PREFIXES" : [
+        "!"
+    ],
+    "TOKEN" : "Mjk3MDg5ODQ3ODUwNDM0NTYw.C8BNDw.DHxOFUPdBNe5LVdXJzOieairZiQ",
+    "default" : {
+        "ADMIN_ROLE" : "Executive Assistant",
+        "MOD_ROLE" : "Process",
+        "PREFIXES" : []
+    }
+}
